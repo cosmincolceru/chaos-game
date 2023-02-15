@@ -12,7 +12,7 @@
 
 Chaos game este o metodă de a genera fractali cu ajutorul poligoanelor. Regulile sunt simple și vor fi explicate folosind exemplul unui triunghi cu vârfurile A, B și C. Începem cu un punct aleator P1 în interiorul triunghiului. Pentru a calcula următoarul punct P2, alegem unul dintre cele trei vârfuri ale triunghiului la întâmplare și plasăm P2 în mijlocul traseului dintre punctul P1 și vârful selectat aleator. Repetăm acest proces de un număr mare de ori și vom obține fractalul numit triunghiul lui Sierpinski, o figură descrisă pentru prima dată de matematicianul polonez Wacław Sierpiński în 1915.
 
-![](sierpinski-triangle.png){width="450px"}
+![](sierpinski-triangle.png)
 
 ### Generalizare
 
@@ -26,11 +26,11 @@ Dacă adăugam restricții la alegerea vârfurilor putem obține alte tipuri de 
 
 Adăugând astfel de restricții și modificând valoarea `r`, putem obține astfel de fractali:
 
-![](n4r1.png){width="450px"}
+![](n4r1.png)
 
-![](n4r2.png){width="450px"}
+![](n4r2.png)
 
-![](n5r5.png){width="450px"}
+![](n5r5.png)
 
-![](sierpinski-carpet.png){width="450px"}
+![](sierpinski-carpet.png)
 
